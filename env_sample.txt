@@ -1,0 +1,9 @@
+# the .env file should be look like this:
+
+DEBUG=True
+SECRET_KEY=mysecretkey
+DATABASE_NAME=mydatabase
+DATABASE_USER=mydatabaseuser
+DATABASE_PASSWORD=mypassword
+DATABASE_HOST=localhost
+DATABASE_PORT=5432
